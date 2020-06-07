@@ -29,16 +29,16 @@ The Excalibur application is truly made for anyone's usage, well, definitely for
 **5. Exporting**
   - After users have finished all of their analysis, the finished product can be simply shared using the **export tools**. The **create presentation tool** is a shortcut that allows user to save the image to a Microsoft PowerPoint presentation, along with the metadata of the imagery.
 
-Below I have listed summarizations of ArcGIS Excalibur and its application in 5 different areas
+**Below I have listed summarizations of ArcGIS Excalibur and its application in 5 different areas**
 
 **Image Management**
-- Interactive search and discovery
-- Simplified access to imagery through numerous experiences
-- User defined search settings to refine discovery results
+- Search and discover interactively
+- High accessibility to imagery through trials
+- Personal settings to define search categories for refined discovery results
 
 **Exploitation**
-- Tools for on-the-fly processing and dynamic visualization
-- Fully integrated, side-by-side visualization of oblique and orthorectified imagery
+- Immediate processing and dynamic visualization of current events
+- Integrate and portray side-by-side visualization to fully project oblique and orthorectified imagery
 - Image annotation and sketching with automatic, accurate transformation to geographic features
 
 **Imagery Project**
@@ -57,3 +57,13 @@ Below I have listed summarizations of ArcGIS Excalibur and its application in 5 
 - System notifications to proactivity report information
 - Configurable user preference settings provide the best experiences when using the application
 - System administrators not required to set and manage personal preferences
+
+### ArcGIS Excalibur In Real Life:
+ArcGIS Excalibur is being used in a crucial area--national security. And like any national security programs, it is given a high degree of jurisdiction to access people's private life. The satellite imagery used in Excalibur are captured and examined on-the-fly to in response to immediate events. For example, if someone within an area reports a crisis, the captured image would be able to send back the immediate image of the area, which includes both private and public property. These images would be used for analysis that are done without the authorization of the residents. Although the images are not used in any mean of profit gain. Its implication is still worth thinking about. It is the capability of such strong analysis ability of certain, if not the whole globe, that strikes people to tie national security to individual privacy protection.
+
+Citations:
+
+1. <cite>[Albert Einstein][1]</cite>
+2.
+
+[1]: http://www.quotedb.com/quotes/2112
