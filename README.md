@@ -1,6 +1,13 @@
 # final_essay
+GEOINT, short for geospatial intelligence, is a term first introduced in 2005 by a geospatial intelligence defense agency within the U.S. government. Similar to Artificial Intelligence (AI), which focuses on the mining of computational machine intelligence, GEOINT has a concentrated interest in the experiment and development of geospatial data and mapping intelligence. Some of its functionality and practical usage includes, but not limited to, "the analysis of literal imagery; geospatial data; and information technically derived from the processing, exploitation, literal, and non-literal analysis of spectral, spatial, and temporal fused products." ([learn more](https://www.omnisci.com/technical-glossary/geoint))
+
+I want to introduce the topic of GEOINT (Geospatial Intelligent), specifically within the usage of ArcGIS Excalibur and
+
 Geoint: Geographic Intelligent
 ArcGIS Excalibur: Web-based image exploitation workflow for timely geospatial intelligence
+Metadata, data about the data
+Excalibur, maps of a map
+
 For: Analysts, Imagery Specialists, and Imagery/GIS managers
 Who: Need to discover, analyst, and report information derived from imagery analysis or exploitation
 The Solution: a cloud-based application
@@ -32,3 +39,6 @@ Personal User Settings
 - System notifications to proactivity report information
 - Configurable user preference settings provide the best experiences when using the application
 - System administrators not required to set and manage personal preferences
+
+How it works:
+Based on who you are, run through all the different layers within the given database to present users with what imagery layers are available
