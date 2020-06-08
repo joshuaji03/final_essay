@@ -59,15 +59,28 @@ The Excalibur application is truly made for anyone's usage, well, definitely for
 - System administrators not required to set and manage personal preferences
 
 ### ArcGIS Excalibur's Social Implications:
-ArcGIS Excalibur is being used in a crucial area--national security. And like any national security programs, it is given a high degree of jurisdiction to access people's private life. The satellite imagery used in Excalibur are captured and examined on-the-fly to in response to immediate events. For example, if someone within an area reports a crisis, the captured image would be able to send back the immediate image of the area, which includes both private and public property. These images would be used for analysis that are done without the authorization of the residents. Although the images are not used in any mean of profit gain. Its implication are still worth thinking about. It is the capability of such detailed analysis, and performed on such grand scale, that strikes people to tie national security to individual privacy protection. The balance point between the two is subtle and hard to find. We have seen different countries take different measures on this topic. While Excalibur is becoming more and more used, if not already fully implemented in boarder security, issues regarding privacy protection are perceivably on the rise as well. The U.S. military stationed in North Sudan has successfully prevented terrorist  attacks with the aid of Excalibur. ([learn more](https://www.youtube.com/watch?v=KPAqNG2mpy4&t=498s)) But it is also not hard to imagine surveillance monitoring exploiting on the functionalities. One thing Excalibur has done well in avoiding this issue is through its high-technical knowledge requirement in performing such mapping analysis. There does require some entry level background knowledge about geospatial data and mapping layers to optimise the operation of Excalibur. By the end of the day, it really depends on the users. I want to end on a quote by Professor Matthew C. Waxman from the Colombia University of Law and faculty chair of the National Security Law Program, 
+ArcGIS Excalibur is being used in a crucial area--national security. And like any national security programs, it is given a high degree of jurisdiction to access people's private life. The satellite imagery used in Excalibur are captured and examined on-the-fly to in response to immediate events. For example, if someone within an area reports a crisis, the captured image would be able to send back the immediate image of the area, which includes both private and public property. These images would be used for analysis that are done without the authorization of the residents. Although the images are not used in any mean of profit gain. Its implication are still worth thinking about. It is the capability of such detailed analysis, and performed on such grand scale, that strikes people to tie national security to individual privacy protection. The balance point between the two is subtle and hard to find. We have seen different countries take different measures on this topic. While Excalibur is becoming more and more used, if not already fully implemented in boarder security, issues regarding privacy protection are perceivably on the rise as well. The U.S. military stationed in North Sudan has successfully prevented terrorist  attacks with the aid of Excalibur. ([learn more](https://www.youtube.com/watch?v=KPAqNG2mpy4&t=498s)) But it is also not hard to imagine surveillance monitoring exploiting on the functionalities. One thing Excalibur has done well in avoiding this issue is through its high-technical knowledge requirement in performing such mapping analysis. There does require some entry level background knowledge about geospatial data and mapping layers to optimise the operation of Excalibur. By the end of the day, it really depends on the users. I want to end on a quote by Professor Matthew C. Waxman from the Colombia University of Law and faculty chair of the National Security Law Program,
 
 ***“We all go through our lives leaving digital footprints about what we do. On the one hand, that gives our intelligence agencies some vast new powers to keep track secretly of what our enemies are doing and, potentially, what our own citizens are doing. On the other hand, new technologies give individuals and organizations vast new powers to expose government secrets. The balance between secrecy and transparency is always in flux. The answer to these puzzles is constantly changing. The way we will continue to balance those two concerns—keeping us safe, preventing government abuse—is by ensuring we have a well-educated public.”***
 
+---
+
+#### Citations:
+
+1. <cite>[ESRI ArcGIS Excalibur][1]</cite>
+2. <cite>[ArcGIS Excalibur symposium][2]</cite>
+3. <cite>[ArcGIS Excalibur documentation][3]</cite>
+4. <cite>[National Security Program][4]</cite>
+5. <cite>["MAP-BASED VISUAL STORYTELLING:
+AN ASSESSMENT OF EMERGING GENRES AND TROPES", Zihan Song][5]</cite>
+6. <cite>["What is GEOINT", Snaptrends][6]</cite>
+7. <cite>[GEOINT, Omnisci][7]</cite>
 
 
-Citations:
-
-1. <cite>[Albert Einstein][1]</cite>
-2.
-
-[1]: http://www.quotedb.com/quotes/2112
+[1]: https://www.esri.com/about/newsroom/publications/wherenext/get-assets-five-steps-operational-intelligence/
+[2]: https://www.esri.com/arcgis-blog/products/imagery/imagery/arcgis-excalibur-is-here/
+[3]: https://enterprise.arcgis.com/en/excalibur/latest/get-started/image-views.htm
+[4]: https://www.law.columbia.edu/areas-of-study/national-security-and-privacy
+[5]: https://drive.google.com/file/d/133s4dxoRaT1A7OckBapS6e9Yxh_wQc9d/view
+[6]: http://snaptrends.com/social-media-software/geospatial-intelligence/
+[7]: https://www.omnisci.com/technical-glossary/geoint
